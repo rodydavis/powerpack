@@ -1,0 +1,21 @@
+name: powerpack
+description: A Flutter Plugin Powered By Dart Extensions
+version: 0.0.1
+author: Rody Davis <rody.davis.jr@gmail.com>
+homepage: https://github.com/AppleEducate/powerpack
+issue_tracker: https://github.com/AppleEducate/powerpack/issues
+maintainer: Rody Davis (@AppleEducate)
+
+environment:
+  sdk: ">=2.6.0-dev.8.0.flutter-a61c775db8 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
